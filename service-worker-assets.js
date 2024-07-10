@@ -33,7 +33,7 @@
       "url": "_framework\/icudt_no_CJK.dat"
     },
     {
-      "hash": "sha256-Dl7KhQ\/H5Jues3hbLwAMQoUmBI\/rJ2b8al6HFCebPDE=",
+      "hash": "sha256-jxyBLNN4dA75\/B7Yu\/s2wY\/jO4FDegn4fqBArsDM2V4=",
       "url": "_framework\/blazor.boot.json"
     },
     {
@@ -93,7 +93,7 @@
       "url": "_framework\/Microsoft.JSInterop.WebAssembly.wasm"
     },
     {
-      "hash": "sha256-wmfaT3cEFrGLAAOAMBe7nb8FahekeN4MW8XoJMC6P9M=",
+      "hash": "sha256-SSf7Kqv0LQn+xnHBaOXTXH\/o598kbJBojJ46BSYY6KY=",
       "url": "_framework\/PersonalPage.wasm"
     },
     {
@@ -117,7 +117,7 @@
       "url": "_framework\/System.Diagnostics.DiagnosticSource.wasm"
     },
     {
-      "hash": "sha256-W\/4yYM+qm8FDafBuyM1viNlv797YJ0IujmYb\/NKBmNY=",
+      "hash": "sha256-JYx\/VHX2imI3a\/Ng4IeVF7\/GbNWBURohf+xcxFa\/pno=",
       "url": "_framework\/System.Linq.wasm"
     },
     {
@@ -149,7 +149,7 @@
       "url": "_framework\/System.Runtime.InteropServices.JavaScript.wasm"
     },
     {
-      "hash": "sha256-cRpwmsM8dqNSfOWf4UDi02oIgyLcvLIWoionLgzxwWU=",
+      "hash": "sha256-kmxn3rSpRxY5IYZgVEAEtI4rl26zwDjVl9OnlaUw\/qE=",
       "url": "_framework\/System.Runtime.wasm"
     },
     {
@@ -165,7 +165,7 @@
       "url": "_framework\/System.Text.RegularExpressions.wasm"
     },
     {
-      "hash": "sha256-2MyChLxlYIkGHHb7Ysi9nKwzFCL+KbJL5GRIgoai22E=",
+      "hash": "sha256-hd6akuf7iK\/yU6D9tfwFdyurLjOaYJ5MOeYLz\/BgHpE=",
       "url": "PersonalPage.styles.css"
     },
     {
@@ -181,6 +181,10 @@
       "url": "css\/bootstrap\/bootstrap.min.css.map"
     },
     {
+      "hash": "sha256-VCEC0zz9G\/N\/f3OlxRzfVXAJsB+q9qncXM1HrtdxLXA=",
+      "url": "css\/tetris.css"
+    },
+    {
       "hash": "sha256-4mWsDy3aHl36ZbGt8zByK7Pvd4kRUoNgTYzRnwmPHwg=",
       "url": "favicon.png"
     },
@@ -193,8 +197,16 @@
       "url": "icon-512.png"
     },
     {
-      "hash": "sha256-bfXKA4XP5MkNl5EmUSNWXEs7OkfWC3l12FyeWY2NI1U=",
+      "hash": "sha256-7KYV7UpeKz8BZeXo3jvxYBryD2BrE+8bFHMAHMKH2\/U=",
+      "url": "img\/ninja-coder.png"
+    },
+    {
+      "hash": "sha256-vjy79Lr9xgpqFWje6cVDBwDADflJGOlTAZeZSKmnKVs=",
       "url": "index.html"
+    },
+    {
+      "hash": "sha256-y0zpzjr6AiEIBX68rlYl9FlYBzxGG6uO5CrHjvxJ7G4=",
+      "url": "js\/modules.js"
     },
     {
       "hash": "sha256-96hCzYCGPH5TL2Plvylyp6KfzIctTngmLRuQ5KdOozg=",
@@ -205,5 +217,5 @@
       "url": "sample-data\/weather.json"
     }
   ],
-  "version": "6HmMjF5A"
+  "version": "HKlXneiI"
 };

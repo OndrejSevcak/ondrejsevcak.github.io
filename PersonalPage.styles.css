@@ -173,8 +173,14 @@ main[b-rtb2q9skro] {
     height: 30px;
     background-color: aliceblue;
     border: 1px solid black;
+    cursor: pointer;
 }
 
 .bg-yellow[b-0pw8ccgdag]{
     background-color: yellow;
+}
+
+.logs[b-0pw8ccgdag]{
+    width: 400px;
+    height:650px;
 }
