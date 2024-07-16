@@ -14,10 +14,14 @@
 }
 
 .bg-yellow {
-    background-color: yellow;
+    background-color: yellow !important;
 }
 
 .logs {
     width: 400px;
     height: 650px;
+}
+
+.pointer{
+    cursor: pointer !important;
 }
