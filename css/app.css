@@ -101,3 +101,22 @@ a, .btn-link {
 code {
     color: #c02d76;
 }
+
+
+/*My custom CSS*/
+
+.br15 {
+    border-radius: 15px;
+}
+
+.fs07{
+    font-size: 0.7rem;
+}
+
+.fs08 {
+    font-size: 0.8rem;
+}
+
+.pointer{
+    cursor: pointer;
+}
