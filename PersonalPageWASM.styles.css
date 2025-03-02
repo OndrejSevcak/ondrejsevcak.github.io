@@ -135,6 +135,10 @@ main[b-awvip4lze6] {
     font-size: 18px !important;
     margin-top: 20px;
 }
+
+img[b-2l0221gjj2]{
+    max-width: 100% !important;
+}
 /* /Pages/Tetris.razor.rz.scp.css */
 .board[b-t4qs5hxsyj]{
     width: 300px;
