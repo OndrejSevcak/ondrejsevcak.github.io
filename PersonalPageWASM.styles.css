@@ -1,3 +1,22 @@
+/* /Components/Reusable/Loader.razor.rz.scp.css */
+#loader[b-k0z23xpdnz] {
+    position: fixed;
+    z-index: 9999;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+}
+
+.spinner-border[b-k0z23xpdnz] {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    /*    transform: translate(-50%, -50%);*/
+    width: 4rem;
+    height: 4rem;
+    border-width: 0.5rem;
+}
 /* /Layout/MainLayout.razor.rz.scp.css */
 .page[b-awvip4lze6] {
     position: relative;
@@ -135,11 +154,11 @@ main[b-awvip4lze6] {
     font-size: 18px !important;
     margin-top: 20px;
 }
-
-img[b-2l0221gjj2]{
-    max-width: 100% !important;
-}
 /* /Pages/Tetris.razor.rz.scp.css */
+html[b-t4qs5hxsyj], body[b-t4qs5hxsyj]{
+    height: 100%;
+}
+
 .board[b-t4qs5hxsyj]{
     width: 300px;
     display: flex;
