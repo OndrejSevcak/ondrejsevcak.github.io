@@ -126,6 +126,36 @@ main[b-awvip4lze6] {
     width: 250px;
 }
 
+#mainMenu > li:not(.donothover):hover[b-yxq347obdp] {  
+   background-color: rgb(100, 149, 237); /* Lighter blue color */  
+   border: 0px;  
+   border-radius: 0.25rem;  
+}
+
+#mainMenu .nav-link:not(.donothover):hover[b-yxq347obdp] {
+    color: white !important;
+    transition: none;
+}
+
+#blazorSubmenu li[b-yxq347obdp] {
+    margin-left: 35px;
+    font-size: 0.8rem;
+}
+
+#blazorSubmenu .nav-link[b-yxq347obdp]{
+    padding: 0.3rem 0.5rem; 
+}
+
+    #blazorSubmenu li:hover[b-yxq347obdp] {
+        background-color: rgb(100, 149, 237); /* Lighter blue color */
+        border: 0px;
+        border-radius: 0.25rem;
+    }
+
+    #blazorSubmenu .nav-link:hover[b-yxq347obdp] {
+        color: white !important;
+        transition: none;
+    }
 /* /Pages/Blog.razor.rz.scp.css */
 .post-box[b-4wbnptayg4] {
     border: 1px solid lightgray;
@@ -142,16 +172,18 @@ main[b-awvip4lze6] {
     }
 /* /Pages/Post.razor.rz.scp.css */
 .post-container[b-2l0221gjj2] {
-    font-size: 16px;
+    font-size: 14px;
+    width: 80%;
+    margin: auto;
+    padding: 25px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
 }
 
 .h2[b-2l0221gjj2], h2[b-2l0221gjj2] {
-    font-size: 22px !important;
     margin-top: 20px;
 }
 
 .h3[b-2l0221gjj2], h3[b-2l0221gjj2] {
-    font-size: 18px !important;
     margin-top: 20px;
 }
 /* /Pages/Tetris.razor.rz.scp.css */
